@@ -25,6 +25,8 @@ local oSay,oSay1,oSay2
 // Guillermo Garcia
 //Violeta Lopez
 //Gerardo
+//Guillermo Cambio
+// Gerardo 2
 set date  to brit
 Set Epoch To 1950
 set dele on
