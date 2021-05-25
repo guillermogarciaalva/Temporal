@@ -24,6 +24,7 @@ local oSay,oSay1,oSay2
 //setHandleCount(250)
 // Guillermo Garcia
 //Violeta Lopez
+//Gerardo
 set date  to brit
 Set Epoch To 1950
 set dele on
